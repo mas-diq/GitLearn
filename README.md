@@ -13,3 +13,5 @@
 ### Test GIT
 
 ### Another Test
+
+### Test conflict
