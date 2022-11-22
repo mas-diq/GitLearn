@@ -42,6 +42,10 @@
 
 ### add another line
 ### create ft002
+
+### add commit 1
+### jangan aneh"
+
 ## create new line argentina
 ## 2nd line argentina
 ## 3rd line argentina
@@ -50,3 +54,4 @@
 ### add commit
 ### add second commit
 ### add third commit
+
