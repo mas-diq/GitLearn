@@ -30,3 +30,4 @@
 
 ### add commit 1
 ### jangan aneh"
+### nanam padi kok maju
