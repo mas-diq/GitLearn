@@ -29,3 +29,4 @@
 ### create ft002
 
 ### add commit 1
+### jangan aneh"
