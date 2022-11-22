@@ -45,3 +45,5 @@
 ### create ft002
 
 ### Yokosuka MXY-7 Ohka
+
+### North American AJ Savage
