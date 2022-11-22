@@ -40,6 +40,10 @@
 
 ### add new features
 
+### add another lines
+### create ft002
+
+#test RandyBranch
 ### add another line
 
 ### create ft002
@@ -65,4 +69,3 @@
 ### add commit
 ### add second commit
 ### add third commit
-
