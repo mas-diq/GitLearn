@@ -1,15 +1,15 @@
 # GitLearn
-
+# Branch baru
 ### First Line
 ### add 3 line
 ### Third Line
 
 ### some new line
-
+### Final line
 ### some another line
 
 ### Comment
-
+### new line in branch-001
 ### Test GIT
 
 ### Comment dari Farhan
@@ -20,4 +20,5 @@
 ### Comment dari Taqi
 
 ### Add bottom line
-### keep learning
+### add new line, before merge
+
