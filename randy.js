@@ -1,1 +1,1 @@
-console.log "ini randy";
+console.log("ini randy");
